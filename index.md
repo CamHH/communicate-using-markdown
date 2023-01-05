@@ -7,3 +7,7 @@
 sudo pkill
 
 ```
+
+- [X] Learn how to use Github
+- [X] Learn how to use Markdown
+- [ ] Learn Python and SQL
